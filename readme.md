@@ -1,0 +1,1 @@
+I compared the two JSON  and Use the rest countries API then same rest countries print all name, regions, sub-region and populations

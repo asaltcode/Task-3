@@ -1,0 +1,82 @@
+Task 1: Simple Programs todo for variables:-
+
+1.) var a =
+    var b =
+    var c =
+    var d =
+    var e =
+
+2.)var myvar= 1;
+   console.log(myvar);
+
+3.) var firstName = "Raja";
+    var lastName = "V";
+    var maritalStatus = "Single";
+    var country = "indian";
+    var age = 55;
+
+4.) var firstName = "Raja", lastName = "V", maritalStatus = "Single", country = "indian", age = 55
+
+5.) var a = " ";
+    console.log(typeof a);
+
+    var b = true;
+    console.log(typeof b);
+    
+    var c
+    console.log(typeof c);
+
+    var d = null;
+    console.log(d)
+
+6.)  parseInt() and Plus sign(+).
+
+7.) let number1;
+    console.log(!!number1); // false
+
+    const number2 = 10;
+    console.log(!!number2); // true
+    
+    const name1 = 'Tim';
+    console.log(name1 == "Tim"); // true
+    
+    const name2 = "";
+    console.log(name2 != ""); // false
+    
+    const nullValue = null;
+    console.log(!!nullValue); // false
+    
+    const num = "1234";
+    console.log(num === 1234); // false
+
+
+Task 2: Simple Programs to do for Operators:-
+
+1.) function square(number) {
+    return number * number;
+    }
+    
+    const number = 5;
+    const result = square(number);
+    console.log(result); // Output: 25
+
+2.) let x = 20;
+    let y = 50;
+    console.log("x =",x ,"y =", y)
+    let swapp
+    swapp = x;
+    x = y;
+    y = swapp;
+    console.log("After swapping result:") 
+    console.log("x =",x ,"y =", y)
+
+3.) 
+    let num1 = 10;
+    let num2 = 20;
+    let num3 = 30;
+    var sum = num1 + num2 + num3; 
+    console.log(sum)
+
+4.) 
+
+Task 3: Simple Programs todo for Condition , Looping and Arrays:-
